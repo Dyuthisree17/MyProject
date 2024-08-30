@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-30T20:20:58 IST" name="Default suite" finished-at="2024-08-30T20:21:48 IST" duration-ms="50477">
+    <groups>
+    </groups>
+    <test started-at="2024-08-30T20:20:58 IST" name="Default test" finished-at="2024-08-30T20:21:48 IST" duration-ms="50477">
+      <class name="test.Testing2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:20:58 IST" name="setup" finished-at="2024-08-30T20:20:59 IST" duration-ms="1643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="set()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:20:59 IST" name="set" finished-at="2024-08-30T20:21:12 IST" duration-ms="12879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="test2()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:12 IST" name="test2" finished-at="2024-08-30T20:21:20 IST" duration-ms="7542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:20 IST" name="aftermethod" finished-at="2024-08-30T20:21:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="set()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:20 IST" name="set" finished-at="2024-08-30T20:21:22 IST" duration-ms="2283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="test3()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:22 IST" name="test3" finished-at="2024-08-30T20:21:37 IST" duration-ms="15108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:37 IST" name="aftermethod" finished-at="2024-08-30T20:21:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="set()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:37 IST" name="set" finished-at="2024-08-30T20:21:37 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method signature="test4()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:37 IST" name="test4" finished-at="2024-08-30T20:21:48 IST" duration-ms="10903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:48 IST" name="aftermethod" finished-at="2024-08-30T20:21:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.Testing2@1bb5a082]" started-at="2024-08-30T20:21:48 IST" name="teardown" finished-at="2024-08-30T20:21:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.Testing2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
